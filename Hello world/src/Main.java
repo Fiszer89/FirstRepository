@@ -11,6 +11,8 @@ public class Main {
 
         int p = 1;
 
+        int b = 2;
+
 
         int b = 2;
 
