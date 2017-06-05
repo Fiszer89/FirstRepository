@@ -14,6 +14,8 @@ public class Main {
 
         int p = 1;
 
+        int b = 2;
+
 
         char[] digits = {1,2,3,4,5,6,7,8,9,1,2};
         if (digits.length != 10)
