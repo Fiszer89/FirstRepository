@@ -12,6 +12,9 @@ public class Main {
         int n = 222;
 
 
+        int p = 1;
+
+
         char[] digits = {1,2,3,4,5,6,7,8,9,1,2};
         if (digits.length != 10)
         {
