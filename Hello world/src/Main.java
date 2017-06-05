@@ -13,6 +13,8 @@ public class Main {
 
         int b = 2;
 
+        String mojstring = "abc";
+
 
 
 
