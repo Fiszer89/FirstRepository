@@ -2,7 +2,11 @@ public class Main {
 
     public static void main(String[] args) {
         int j = 1;
+<<<<<<< HEAD
         int k = 111;
+=======
+        
+>>>>>>> fb9f3794d2901d0efd7d660542bba1f45a76f134
         char[] digits = {1,2,3,4,5,6,7,8,9,1,2};
         if (digits.length != 10)
         {
