@@ -2,6 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
         int j = 1;
+        int k = 0;
         char[] digits = {1,2,3,4,5,6,7,8,9,1,2};
         if (digits.length != 10)
         {
